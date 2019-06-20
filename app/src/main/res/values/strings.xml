@@ -1,7 +1,14 @@
 <resources>
+
+    <!-- Nome do aplicativo -->
     <string name="app_name">KotMessenger</string>
+
+    <!-- Strings using activity -->
     <string name="email">Email</string>
-    <string name="password">Senha</string>
     <string name="login">Entrar</string>
-    <string name="create_account">Não tem uma conta? Crie agora!</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="register">Não tem uma conta? Crie agora!</string>
+    <string name="to_register">Cadastrar</string>
+
 </resources>

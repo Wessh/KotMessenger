@@ -38,7 +38,7 @@
             app:layout_constraintEnd_toEndOf="@+id/edit_password"
             app:layout_constraintStart_toStartOf="@+id/edit_password" android:background="@drawable/bg_button_rounded"/>
     <TextView
-            android:text="@string/create_account"
+            android:text="@string/register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/txt_singup"
             android:textSize="14sp" android:layout_marginTop="32dp"
