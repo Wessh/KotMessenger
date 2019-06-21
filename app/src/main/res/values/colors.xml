@@ -4,4 +4,12 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="bgColor">#F3F3F3</color>
+
+    <!-- Second color base -->
+    <color name="colorBase">#F5820C</color>
+    <color name="colorBaseDark">#DE4F00</color>
+    <color name="colorBaseAccent">#4E1DC2</color>
+    <color name="colorBaseDefault">#A86119</color>
+
+
 </resources>

@@ -10,5 +10,7 @@
     <string name="password">Senha</string>
     <string name="register">Não tem uma conta? Crie agora!</string>
     <string name="to_register">Cadastrar</string>
+    <string name="photo">Foto</string>
+    <string name="image_logo">imageLogo</string>
 
 </resources>
